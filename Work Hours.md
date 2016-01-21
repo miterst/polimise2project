@@ -1,1 +1,1 @@
-Student      | RASD          | DD            | Code Inspection |:------------ | :-------------: | :-------------: | :----------------:|Dushica Stojkoska | 35 | 28 | 20 Mite Ristovski | 30 | 25 | 25 
+Student      | RASD          | DD            | Code Inspection | Integration Testing |:------------ | :-------------: | :-------------: | :----------------:|:----------------:|Dushica Stojkoska | 35 | 28 | 20 | 12Mite Ristovski | 30 | 25 | 25 | 13
